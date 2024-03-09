@@ -1,10 +1,7 @@
-- 👋 Hi, I’m JaiPraksh
-- 👀 I’m interested in Building Applications, ML and IoT
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on any IoT apps, ML apps, and Full Stack Applications
-- 📫 How to reach me @email: jpsiyyadri@gmail.com
+# Vue 3 + Vite
 
-<!---
-jpsiyyadri/jpsiyyadri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+
+## Recommended IDE Setup
+
+- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
