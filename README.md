@@ -12,4 +12,4 @@ Hello! I'm a seasoned full stack developer with 6 years of experience in craftin
 With a strong foundation in both backend and frontend technologies, I bring a holistic approach to software development. Whether it's architecting robust APIs or creating cutting-edge AI applications, I thrive on challenges and strive for excellence in every project.
 
 ## Contact
-Feel free to reach out to me via [LinkedIn](
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/jpsiyyadri/)
