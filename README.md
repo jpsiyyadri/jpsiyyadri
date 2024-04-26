@@ -1,7 +1,15 @@
-# Vue 3 + Vite
+# About Me
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Introduction
+Hello! I'm a seasoned full stack developer with 6 years of experience in crafting innovative solutions. Currently, I am part of the talented team at Gramener, where I contribute my expertise to various projects.
 
-## Recommended IDE Setup
+## Expertise
+- **Programming Languages:** Python, JavaScript
+- **Skills:** Building APIs, Developing AI applications
+- **Cloud Platform:** Proficient in Azure Cloud services
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## Experience
+With a strong foundation in both backend and frontend technologies, I bring a holistic approach to software development. Whether it's architecting robust APIs or creating cutting-edge AI applications, I thrive on challenges and strive for excellence in every project.
+
+## Contact
+Feel free to reach out to me via [LinkedIn](
